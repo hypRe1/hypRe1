@@ -13,4 +13,4 @@
 
 **I am currently working on a discord bot:**
 
-![Discord Banner 4](https://discordapp.com/api/guilds/819660676598857758/widget.png?style=banner4)
+![Discord Banner 4](https://discordapp.com/api/guilds/966797329665507428/widget.png?style=banner4)
